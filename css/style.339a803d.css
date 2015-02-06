@@ -983,6 +983,9 @@ body.isTouchDevice .fr-widget.fr-background-parallax,
 .fr_cnt04_3_column_grid {
 min-height: 40.875em !important;
 }
+.fr_content_4 {
+min-height: 0 !important;
+}
 .small {font-size: 0.69em; color:#efefef;}
 .small-2 {font-size: 0.89em; color:#efefef;}
 
