@@ -1,3 +1,3 @@
-# technic-ndt.project.github.io
+# Serag Web Project
 
-Technic-Ndt website project made with ♥ by [Oben Interactive](http://oben-interactive.fr)
+Serag website project made with ♥ by [Oben Interactive](http://oben-interactive.fr)
