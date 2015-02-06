@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SERAG</title>
+    <description>Projet de Création Site Internet pour la société SERAG, Artisan, Entretien Chauffage, Orange (84). Démo réalisée par Oben Interactive.
+</description>
+    <link>http://obeninteractive.github.io/</link>
+    <atom:link href="http://obeninteractive.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Fri, 06 Feb 2015 13:16:38 +0100</pubDate>
+    <lastBuildDate>Fri, 06 Feb 2015 13:16:38 +0100</lastBuildDate>
+    <generator>Jekyll v2.5.2</generator>
+    
+  </channel>
+</rss>

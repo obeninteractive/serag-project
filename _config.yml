@@ -1,0 +1,38 @@
+# Site settings
+title: SERAG
+email: support.clients@oben-interactive.fr
+description: > # this means to ignore newlines until "baseurl:"
+  Projet de Création Site Internet pour la société SERAG, Artisan, Entretien Chauffage, Orange (84).
+  Démo réalisée par Oben Interactive.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://obeninteractive.github.io" # the base hostname & protocol for your site
+# PROJECT SCREENSHOTS
+screenshot:
+  #screenshot images
+  img_01: serag-001.png
+  img_02: serag-004.png
+  img_03: serag-002.png
+  #screenshot texts
+  text_01: "Acceuil"
+  text_02: "Menu"
+  text_03: "Équipe"
+# PROJECT ESTIMATION
+estimation:
+  title: "Devis Site Internet Entreprise"
+
+display:
+  work_with_oben: "no"
+  promo_year_plan: "no"
+twitter_username: jekyllrb
+github_username:  jekyll
+# VIDEO
+wistia:
+  project_id: 3zv74z4m9f
+vimeo:
+  project_id: 118571985 # Video Project
+#MAILCHIMP
+mailchimp:
+  list: "331eb305870aabaf29d8ada4c&amp;id=95635177ef" # command action form subscribe link
+
+# Build settings
+markdown: kramdown
